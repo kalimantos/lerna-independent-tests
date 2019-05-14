@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Matteo Dellea <matteo.dellea@mikamai.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/client.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "dependencies": {
+    "formatters": "0.0.1",
+    "translations": "0.0.1"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
