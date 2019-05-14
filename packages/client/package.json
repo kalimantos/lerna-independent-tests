@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Matteo Dellea <matteo.dellea@mikamai.com>",
   "homepage": "",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "formatters": "^0.0.2",
+    "formatters": "^0.0.3",
     "translations": "^0.0.2"
   },
   "files": [
