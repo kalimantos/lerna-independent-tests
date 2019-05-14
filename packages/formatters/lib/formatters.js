@@ -3,5 +3,5 @@
 module.exports = formatters;
 
 function formatters() {
-    // TODO
+    console.log('FORMATTERS');
 }
